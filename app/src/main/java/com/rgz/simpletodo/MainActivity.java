@@ -1,4 +1,4 @@
-package com.umpay.simpletodo;
+package com.rgz.simpletodo;
 
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
